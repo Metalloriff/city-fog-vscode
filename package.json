@@ -1,0 +1,22 @@
+{
+	"publisher": "Metalloriff",
+	"name": "city-fog",
+	"displayName": "city-fog",
+	"description": "A VS code theme for the City Fog theme. (https://metalloriff.github.io/city-fog)",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.60.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "City Fog",
+				"uiTheme": "vs-dark",
+				"path": "./themes/City Fog-color-theme.json"
+			}
+		]
+	}
+}
