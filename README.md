@@ -22,11 +22,11 @@
 ![Site Accents](https://i.imgur.com/hGQmheX.png)
 # 
 # 👩‍💻 Language Support
-### City Fog should support most/all languages, if you are experiencing issues with a specific language, please [contact me](mailto:metalloriff@gmail.com), and I will look into it. 😄
+### City Fog should support most/all languages, if you are experiencing issues with a specific language, please [contact me](mailto:metalloriff@gmail.com), or create a PR, and I will look into it. 😄
 # 
 # 🌏 Contributing
 ### This is my first VS Code theme and/or extension!
-### It's bound to have issues, if you find any of these and wish to resolve them, I will gladly accept PRs, or, you may create an issue on the repo and I will respond when I see it.
+### It's bound to have issues; if you find any of these and wish to resolve them, I will gladly accept PRs, or, you may create an issue on the repo and I will respond when I see it.
 # 
 # 🎨 My Other Works
 ### If you would like to check out my other works, you can view all of my public personal projects at [kinzoku.one](https://kinzoku.one)!

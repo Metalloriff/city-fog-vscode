@@ -3,6 +3,9 @@
 	"name": "city-fog",
 	"displayName": "city-fog",
 	"description": "A VS code theme for the City Fog theme. (https://metalloriff.github.io/city-fog)",
+	"repository": {
+		"url": "https://github.com/Metalloriff/city-fog-vscode"
+	},
 	"version": "0.0.1",
 	"engines": {
 		"vscode": "^1.60.0"
