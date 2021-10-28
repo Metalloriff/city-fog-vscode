@@ -6,7 +6,8 @@
 	"repository": {
 		"url": "https://github.com/Metalloriff/city-fog-vscode"
 	},
-	"version": "0.0.1",
+	"icon": "logo512.png",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.60.0"
 	},
