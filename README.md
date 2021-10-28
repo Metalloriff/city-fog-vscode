@@ -1,4 +1,4 @@
-![Banner](Banner.svg)
+![Banner](Banner.png)
 
 # 市 霧 City Fog VS Code
 ## A VS Code theme for [City Fog](https://metalloriff.github.io/city-fog)
