@@ -28,6 +28,9 @@
 ### This is my first VS Code theme and/or extension!
 ### It's bound to have issues; if you find any of these and wish to resolve them, I will gladly accept PRs, or, you may create an issue on the repo and I will respond when I see it.
 # 
+# 🌆 Light Theme
+### City Fog also has a light theme.
+### For those interested, you can get it [here](https://marketplace.visualstudio.com/items?itemName=metalloriff.city-fog-dawn).
 # 🎨 My Other Works
 ### If you would like to check out my other works, you can view all of my public personal projects at [kinzoku.one](https://kinzoku.one)!
 # 
